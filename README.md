@@ -5,6 +5,6 @@ Fremont California
 To know more : <a href="https://www.42.us.org/">URL <a/>
 
 # What Have I learned?
-Intense coding for one month. Loads of fun. \n
-C / Unix
+Intense coding for one month. Loads of fun. <br>
+mainly C & Unix
 
